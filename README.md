@@ -43,4 +43,4 @@ $ rails server
 * **email** : sample@email.com
 * **password** : password
 
-2022/05/16
+2022/05/16 sshへ変更
